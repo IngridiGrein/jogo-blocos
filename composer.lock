@@ -1,0 +1,63 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "5f749658c88c72871cbd943a7e905989",
+    "content-hash": "a31e6b70f7f1058e0f2573db89b02f3a",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "bootstrap/bootstrap-css",
+            "version": "3.0.0",
+            "dist": {
+                "type": "file",
+                "url": "https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library"
+        },
+        {
+            "name": "bootstrap/bootstrap-js",
+            "version": "3.0.0",
+            "dist": {
+                "type": "file",
+                "url": "https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library"
+        },
+        {
+            "name": "bootstrap/magic",
+            "version": "1.1.0",
+            "dist": {
+                "type": "file",
+                "url": "https://cdn.bootcss.com/magic/1.1.0/magic.min.css",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library"
+        },
+        {
+            "name": "jquery/jquery-1.11.1",
+            "version": "1.11.1",
+            "dist": {
+                "type": "file",
+                "url": "https://code.jquery.com/jquery-1.11.1.min.js",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
